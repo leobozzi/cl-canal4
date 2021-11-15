@@ -101,7 +101,7 @@
 
     'git-repos': [
         'https://github.com/leobozzi/cl-canal4.git',
-        'git@github.com:vangrow/ndm.git',
+        'https://github.com/vangrow/ndm.git',
         #'https://github.com/leobozzi/odoo-addons-utils.git',
 
 
