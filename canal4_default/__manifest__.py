@@ -22,7 +22,7 @@
     'version': '12.0.1.0.0',
     'license': 'Other OSI approved licence',
     'category': 'Tools',
-    'summary': 'Customización Ultranet',
+    'summary': 'Customización Canal 4',
     'author': 'Leonardo Bozzi',
     'depends': [
         #Applicaciones del Cliente
@@ -100,7 +100,7 @@
     ],
 
     'git-repos': [
-        'https://github.com/leobozzi/cl-ultranet.git',
+        'https://github.com/leobozzi/cl-canal4.git',
         'https://github.com/leobozzi/odoo-addons-utils.git',
 
 
