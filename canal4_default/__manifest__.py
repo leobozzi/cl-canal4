@@ -55,10 +55,10 @@
         'account_netting',
         'om_account_accountant',
         'accounting_pdf_reports',
-        'contract',
-        'contract_sale',
-        'product_contract',
-        'product_price_taxes_included',
+        #'contract',
+        #'contract_sale',
+        #'product_contract',
+        #'product_price_taxes_included',
 
 		#Localización
         'l10n_ar',
@@ -78,7 +78,7 @@
         'web_search_with_and',
         'auto_backup',
         'mass_editing',
-        'muk_web_theme',
+        #'muk_web_theme',
 
     ],
     'data': [
@@ -101,7 +101,7 @@
 
     'git-repos': [
         'https://github.com/leobozzi/cl-canal4.git',
-        'https://github.com/leobozzi/odoo-addons-utils.git',
+        #'https://github.com/leobozzi/odoo-addons-utils.git',
 
 
 		# Odoomates
@@ -122,7 +122,7 @@
         # 'https://github.com/OCA/bank-payment oca-bank-payment',
         # 'https://github.com/OCA/business-requirement oca-business-requirement',
         # 'https://github.com/OCA/commission oca-commission',
-        'https://github.com/OCA/contract oca-contract',
+        #'https://github.com/OCA/contract oca-contract',
         # 'https://github.com/OCA/credit-control oca-credit-control',
         # 'https://github.com/OCA/crm oca-crm',
         # 'https://github.com/OCA/currency oca-currency',
