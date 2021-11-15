@@ -59,6 +59,7 @@
         #'contract_sale',
         #'product_contract',
         #'product_price_taxes_included',
+        'product_brand',
 
 		#Localización
         'l10n_ar',
@@ -146,7 +147,7 @@
         # 'https://github.com/OCA/operating-unit oca-operating-unit',
         # 'https://github.com/OCA/partner-contact oca-partner-contact',
         # 'https://github.com/OCA/pos oca-pos',
-        # 'https://github.com/OCA/product-attribute oca-product-attribute',
+        'https://github.com/OCA/product-attribute oca-product-attribute',
         # 'https://github.com/OCA/product-pack oca-product-pack',
         #'https://github.com/OCA/project oca-project',
         #'https://github.com/OCA/project-reporting oca-project-reporting',
