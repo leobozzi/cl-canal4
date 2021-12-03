@@ -19,14 +19,14 @@
 # -----------------------------------------------------------------------------------
 {
     'name': 'canal4',
-    'version': '12.0.1.0.0',
+    'version': '12.0.0.0.0',
     'license': 'Other OSI approved licence',
     'category': 'Tools',
     'summary': 'Customización Canal 4',
     'author': 'Leonardo Bozzi',
     'depends': [
         # Applicaciones del Cliente
-                'sale',
+        'sale',
         'sale_management',
         'purchase',
         'stock',
@@ -126,8 +126,6 @@
         # 'https://github.com/leobozzi/odoo-addons-utils.git',
         'git@github.com:vangrow/ndm.git -b 12.0',
 
-
-
         # Odoomates
         # ==========================================================================================
         # 'https://github.com/odoomates/odooapps odoomates-odooapps',
@@ -225,6 +223,7 @@
     'docker-images': [
        # 'odoo jobiols/odoo-jeo:13.0',
        'odoo lbozzi/odoo-docker-lb:12.0',
+       'postgres postgres:11.1-alpine',
        'aeroo adhoc/aeroo-docs',
        'nginx nginx',
     ]
