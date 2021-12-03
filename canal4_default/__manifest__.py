@@ -60,20 +60,21 @@
         # 'product_contract',
         # 'product_price_taxes_included',
         'product_brand',
+        'bit_partner_neighborhood',
 
         # Localización
         'l10n_ar',
         'l10n_ar_ux',
-        # 'l10n_ar_afipws',
-        # 'l10n_ar_afipws_fe',
-        # 'l10n_ar_bank',
-        # 'l10n_ar_sale',
-        # 'l10n_ar_account_withholding',
-        # 'l10n_latam_invoice_document',
-        # 'l10n_ar_reports',
-        # 'l10n_ar_aeroo_base',
+        'l10n_ar_afipws',
+        'l10n_ar_afipws_fe',
+        'l10n_ar_bank',
+        'l10n_ar_sale',
+        'l10n_ar_account_withholding',
+        'l10n_latam_invoice_document',
+        'l10n_ar_reports',
+        'l10n_ar_aeroo_base',
         # 'padron_afip',
-        # 'l10n_ar_stock',
+        'l10n_ar_stock',
 
         # Utils
         'web_search_with_and',
@@ -124,6 +125,7 @@
     'git-repos': [
         'https://github.com/leobozzi/cl-canal4.git',
         # 'https://github.com/leobozzi/odoo-addons-utils.git',
+        'git@github.com:vangrow/odoo-modules.git -b 12.0',
         'git@github.com:vangrow/ndm.git -b 12.0',
         'git@github.com:odoo/enterprise.git -b 12.0',
 
@@ -224,7 +226,8 @@
     ],
     'docker-images': [
        # 'odoo jobiols/odoo-jeo:12.0',
-       'odoo lbozzi/odoo-docker-lb:12.0',
+       # 'odoo lbozzi/odoo-docker-lb:12.0',
+       'odoo lbozzi/odoo-docker-lb:12.0.debug',
        'postgres postgres:11.1-alpine',
        'aeroo adhoc/aeroo-docs',
        'nginx nginx',
