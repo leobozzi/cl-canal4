@@ -60,6 +60,7 @@
         # 'product_contract',
         # 'product_price_taxes_included',
         'product_brand',
+        'base_address_city',
         'bit_partner_neighborhood',
 
         # Localización
