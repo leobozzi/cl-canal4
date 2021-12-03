@@ -92,7 +92,7 @@
     'images': [],
 
     'env-ver': '2',
-    'odoo-license': 'EE',
+    'odoo-license': 'CE',
     'port': '8069',
     # 'server_user': ''
 
