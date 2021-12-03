@@ -92,7 +92,7 @@
     'images': [],
 
     'env-ver': '2',
-    'odoo-license': 'CE',
+    'odoo-license': 'EE',
     'port': '8069',
     # 'server_user': ''
 
@@ -125,6 +125,7 @@
         'https://github.com/leobozzi/cl-canal4.git',
         # 'https://github.com/leobozzi/odoo-addons-utils.git',
         'git@github.com:vangrow/ndm.git -b 12.0',
+        'git@github.com:odoo/enterprise.git -b 12.0',
 
         # Odoomates
         # ==========================================================================================
@@ -166,7 +167,7 @@
         # 'https://github.com/OCA/multi-company oca-multi-company',
         # 'https://github.com/OCA/oca-custom oca-oca-custom',
         # 'https://github.com/OCA/operating-unit oca-operating-unit',
-        # 'https://github.com/OCA/partner-contact oca-partner-contact',
+        'https://github.com/OCA/partner-contact oca-partner-contact',
         # 'https://github.com/OCA/pos oca-pos',
         'https://github.com/OCA/product-attribute oca-product-attribute',
         # 'https://github.com/OCA/product-pack oca-product-pack',
@@ -191,7 +192,7 @@
         # 'https://github.com/OCA/timesheet oca-timesheet',
         # 'https://github.com/OCA/vertical-association oca-vertical-association',
         'https://github.com/OCA/web oca-web',
-        # 'https://github.com/OCA/website oca-website',
+        'https://github.com/OCA/website oca-website',
         # 'https://github.com/OCA/bank-payment oca-bank-payment',
         # 'https://github.com/OCA/account-analytic',
 
@@ -211,7 +212,7 @@
         # Fix porque falla la instalacion de l10n_ar_ux
         'https://github.com/ingadhoc/odoo-argentina ingadhoc-odoo-argentina',
 
-        'https://github.com/ingadhoc/odoo-argentina-ce ingadhoc-odoo-argentina-ce',
+        'https://github.com/ingadhoc/odoo-argentina ingadhoc-odoo-argentina',
         # 'https://github.com/ingadhoc/partner ingadhoc-partner',
         'https://github.com/ingadhoc/product ingadhoc-product',
         # 'https://github.com/ingadhoc/project ingadhoc-project',
@@ -219,7 +220,7 @@
         'https://github.com/ingadhoc/reporting-engine ingadhoc-reporting-engine',
         'https://github.com/ingadhoc/sale ingadhoc-sale',
         'https://github.com/ingadhoc/stock ingadhoc-stock',
-        # 'https://github.com/ingadhoc/website ingadhoc-website',
+        'https://github.com/ingadhoc/website ingadhoc-website',
     ],
     'docker-images': [
        # 'odoo jobiols/odoo-jeo:12.0',
