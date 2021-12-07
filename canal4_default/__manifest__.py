@@ -228,7 +228,7 @@
     'docker-images': [
        # 'odoo jobiols/odoo-jeo:12.0',
        # 'odoo lbozzi/odoo-docker-lb:12.0',
-       'odoo lbozzi/odoo-docker-lb:12.0.debug',
+       'odoo lbozzi/odoo-docker-lb:12.0',
        'postgres postgres:11.1-alpine',
        'aeroo adhoc/aeroo-docs',
        'nginx nginx',
