@@ -62,6 +62,7 @@
         'product_brand',
         'base_address_city',
         'bit_partner_neighborhood',
+        'account_payment_term_extension',
 
         # Localización
         'l10n_ar',
