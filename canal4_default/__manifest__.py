@@ -45,9 +45,10 @@
         # 'project_task_default_stage',
 
         # Contabilidad
-        # 'account',
-        # 'account_ux',
-        # 'account_check',
+        'account',
+        'account_accountant_ux',
+        'account_ux',
+        'account_check',
         # 'account_financial_report',
         # 'account_menu',
         # 'partner_statement',
@@ -204,6 +205,7 @@
         # ADHOC
         # ==========================================================================================
         # 'https://github.com/ingadhoc/account-analytic ingadhoc-account-analytic',
+        'https://github.com/ingadhoc/odoo-argentina-ee ingadhoc-odoo-argentina-ee',
         'https://github.com/ingadhoc/account-financial-tools ingadhoc-account-financial-tools',  # noqa
         'https://github.com/ingadhoc/account-payment ingadhoc-account-payment',
         'https://github.com/ingadhoc/aeroo_reports ingadhoc-aeroo_reports',
