@@ -83,6 +83,7 @@
 
         # Utils
         'web_search_with_and',
+        'web_widget_bokeh_chart',
         'auto_backup',
         # 'mass_editing',
         # 'muk_web_theme',
