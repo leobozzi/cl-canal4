@@ -193,11 +193,11 @@
         'https://github.com/OCA/server-tools oca-server-tools',
         'https://github.com/OCA/server-ux oca-server-ux',
         # 'https://github.com/OCA/social oca-social',
-        # 'https://github.com/OCA/stock-logistics-barcode oca-stock-logistics-barcode',
-        # 'https://github.com/OCA/stock-logistics-reporting oca-stock-logistics-reporting', # noqa
-        # 'https://github.com/OCA/stock-logistics-transport oca-stock-logistics-transport', # noqa
-        # 'https://github.com/OCA/stock-logistics-warehouse oca-stock-logistics-warehouse', # noqa
-        # 'https://github.com/OCA/stock-logistics-workflow oca-stock-logistics-workflow',
+        'https://github.com/OCA/stock-logistics-barcode oca-stock-logistics-barcode',
+        'https://github.com/OCA/stock-logistics-reporting oca-stock-logistics-reporting',  # noqa
+        'https://github.com/OCA/stock-logistics-transport oca-stock-logistics-transport',  # noqa
+        'https://github.com/OCA/stock-logistics-warehouse oca-stock-logistics-warehouse',  # noqa
+        'https://github.com/OCA/stock-logistics-workflow oca-stock-logistics-workflow',
         # 'https://github.com/OCA/timesheet oca-timesheet',
         # 'https://github.com/OCA/vertical-association oca-vertical-association',
         'https://github.com/OCA/web oca-web',
