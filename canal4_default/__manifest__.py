@@ -131,7 +131,7 @@
 
     'git-repos': [
         'https://github.com/leobozzi/cl-canal4.git',
-        'https://github.com:leobozzi/odoo-addons-utils odoo-addons-utils',
+        'https://github.com/leobozzi/odoo-addons-utils odoo-addons-utils',
         'git@github.com:vangrow/odoo-modules.git -b 12.0',
         'git@github.com:vangrow/ndm.git -b 12.0',
         'git@github.com:odoo/enterprise.git -b 12.0',
