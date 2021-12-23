@@ -40,7 +40,8 @@
         # 'helpdesk_mgmt_timesheet',
         # 'helpdesk_motive',
         # 'helpdesk_type',
-        # 'project',
+        'project',
+        'project_ux',
         # 'project_task_material',
         # 'project_task_default_stage',
 
@@ -131,7 +132,7 @@
 
     'git-repos': [
         'https://github.com/leobozzi/cl-canal4.git',
-        'https://github.com/leobozzi/odoo-addons-utils odoo-addons-utils',
+        'https://github.com/leobozzi/odoo-addons-utils.git',
         'git@github.com:vangrow/odoo-modules.git -b 12.0',
         'git@github.com:vangrow/ndm.git -b 12.0',
         'git@github.com:odoo/enterprise.git -b 12.0',
@@ -227,7 +228,7 @@
         'https://github.com/ingadhoc/odoo-argentina ingadhoc-odoo-argentina',
         # 'https://github.com/ingadhoc/partner ingadhoc-partner',
         'https://github.com/ingadhoc/product ingadhoc-product',
-        # 'https://github.com/ingadhoc/project ingadhoc-project',
+        'https://github.com/ingadhoc/project ingadhoc-project',
         # 'https://github.com/ingadhoc/purchase ingadhoc-purchase',
         'https://github.com/ingadhoc/reporting-engine ingadhoc-reporting-engine',
         'https://github.com/ingadhoc/sale ingadhoc-sale',
