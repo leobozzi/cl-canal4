@@ -70,6 +70,7 @@
         'base_address_city',
         'bit_partner_neighborhood',
         'account_payment_term_extension',
+        'sale_timesheet_purchase',
 
         # Localización
         'l10n_ar',
@@ -93,6 +94,7 @@
         'web_view_google_map',
         'mass_editing',
         # 'muk_web_theme',
+        'server_global_parameters',
 
     ],
     'data': [
@@ -204,7 +206,7 @@
         'https://github.com/OCA/stock-logistics-transport oca-stock-logistics-transport',  # noqa
         'https://github.com/OCA/stock-logistics-warehouse oca-stock-logistics-warehouse',  # noqa
         'https://github.com/OCA/stock-logistics-workflow oca-stock-logistics-workflow',
-        # 'https://github.com/OCA/timesheet oca-timesheet',
+        'https://github.com/OCA/timesheet oca-timesheet',
         # 'https://github.com/OCA/vertical-association oca-vertical-association',
         'https://github.com/OCA/web oca-web',
         'https://github.com/OCA/website oca-website',
@@ -236,6 +238,7 @@
         'https://github.com/ingadhoc/purchase ingadhoc-purchase',
         'https://github.com/ingadhoc/reporting-engine ingadhoc-reporting-engine',
         'https://github.com/ingadhoc/sale ingadhoc-sale',
+        'https://github.com/ingadhoc/odoo-support ingadhoc-odoo-support',
         'https://github.com/ingadhoc/stock ingadhoc-stock',
         'https://github.com/ingadhoc/website ingadhoc-website',
     ],
