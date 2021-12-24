@@ -29,6 +29,7 @@
         'sale',
         'sale_management',
         'purchase',
+        'purchase_ux',
         'stock',
         'hr',
         'hr_expense',
@@ -54,6 +55,7 @@
         # 'account_financial_report',
         # 'account_menu',
         'account_multicompany_ux',
+        'analytic_product_category',
         # 'partner_statement',
         # 'account_journal_security',
         # 'account_netting',
@@ -207,11 +209,11 @@
         'https://github.com/OCA/web oca-web',
         'https://github.com/OCA/website oca-website',
         # 'https://github.com/OCA/bank-payment oca-bank-payment',
-        # 'https://github.com/OCA/account-analytic',
+        'https://github.com/OCA/account-analytic oca-account-analytic',
 
         # ADHOC
         # ==========================================================================================
-        # 'https://github.com/ingadhoc/account-analytic ingadhoc-account-analytic',
+        'https://github.com/ingadhoc/account-analytic ingadhoc-account-analytic',
         'https://github.com/ingadhoc/account-invoicing ingadhoc-account-invoicing',
         'https://github.com/ingadhoc/odoo-argentina-ee ingadhoc-odoo-argentina-ee',
         'https://github.com/ingadhoc/account-financial-tools ingadhoc-account-financial-tools',  # noqa
@@ -231,7 +233,7 @@
         # 'https://github.com/ingadhoc/partner ingadhoc-partner',
         'https://github.com/ingadhoc/product ingadhoc-product',
         'https://github.com/ingadhoc/project ingadhoc-project',
-        # 'https://github.com/ingadhoc/purchase ingadhoc-purchase',
+        'https://github.com/ingadhoc/purchase ingadhoc-purchase',
         'https://github.com/ingadhoc/reporting-engine ingadhoc-reporting-engine',
         'https://github.com/ingadhoc/sale ingadhoc-sale',
         'https://github.com/ingadhoc/stock ingadhoc-stock',
