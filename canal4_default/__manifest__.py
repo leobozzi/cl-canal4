@@ -28,6 +28,8 @@
         # Applicaciones del Cliente
         'sale',
         'sale_management',
+        'sale_commission',
+        'sale_commission_salesman',
         'purchase',
         'purchase_ux',
         'stock',
@@ -164,7 +166,7 @@
         # 'https://github.com/OCA/bank-payment oca-bank-payment',
         'https://github.com/OCA/brand oca-brand',
         # 'https://github.com/OCA/business-requirement oca-business-requirement',
-        # 'https://github.com/OCA/commission oca-commission',
+        'https://github.com/OCA/commission oca-commission',
         # 'https://github.com/OCA/contract oca-contract',
         # 'https://github.com/OCA/credit-control oca-credit-control',
         # 'https://github.com/OCA/crm oca-crm',
