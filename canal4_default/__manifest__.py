@@ -168,7 +168,7 @@
         'https://github.com/OCA/brand oca-brand',
         # 'https://github.com/OCA/business-requirement oca-business-requirement',
         'https://github.com/OCA/commission oca-commission',
-        # 'https://github.com/OCA/contract oca-contract',
+        'https://github.com/OCA/contract oca-contract',
         # 'https://github.com/OCA/credit-control oca-credit-control',
         # 'https://github.com/OCA/crm oca-crm',
         # 'https://github.com/OCA/currency oca-currency',
